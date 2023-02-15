@@ -1,0 +1,9 @@
+.index {
+    background-color: rgb(130, 125, 163);
+    text-align: center;
+    line-height: 200px;
+    font-size: 19px;
+    width: auto;
+    height: 200px;
+    border-radius: 2%;
+}
